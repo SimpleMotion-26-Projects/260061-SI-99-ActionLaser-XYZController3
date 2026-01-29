@@ -1,34 +1,37 @@
-# Project Metadata for XYZ Controller 3
+# Project Metadata for XYZ Automated Table 3 - Design and Manufacture
 # Version: 1
 # Derived from: 260046-SI-99-ActionLaser-LVDTReplacement
 
 [document]
 type = "Quotation"
 number = "SI-QU-260051-01"
-issue_date = ""
-issue_date_formatted = ""
-expiry_date = ""
-expiry_date_formatted = ""
+issue_date = "2026-01-29"
+issue_date_formatted = "Wed 29-01-2026"
+expiry_date = "2026-02-28"
+expiry_date_formatted = "Sat 28-02-2026"
 
 [project]
 id = "260051-SI"
-title = "XYZ Controller 3"
+title = "XYZ Automated Table 3 - Design and Manufacture"
+base_price = 138005.00
+multiplier = 1.14
+total_price = 157325.70
 
 [client]
 name = "Action Laser Pty Ltd"
 short_name = "ActionLaser"
-address_line1 = ""
-address_line2 = ""
+address_line1 = "Unit 1, 32 Leighton Place"
+address_line2 = "Hornsby, NSW 2077"
 
 [client.contact]
-salutation = ""
-title = ""
-email = ""
-phone = ""
+salutation = "Mr"
+title = "Production Manager"
+email = "david.pask@actionlaser.com"
+phone = "0492 940 025"
 
 [client.contact.name]
-first = ""
-last = ""
+first = "David"
+last = "Pask"
 
 [simplemotion]
 entity = "SimpleMotion.Projects Pty Ltd"

@@ -3,7 +3,8 @@
 All notable changes to this project will be documented in this file.
 
 | Version | Hash | Date | Author | Message |
-|---------|------|------|--------|---------|
+|---------|------|------|--------|
+| v0.0.0.13 | 2c02fe6 | 2026-02-01 22:00 UTC | Greg Gowans | Remove .simplemotion local data directory |---------|
 | v0.0.0.11 | 92d7f4e | 2026-02-01 20:25 UTC | Greg | Simplify CLAUDE.md, reference global /sm-quote and /sm-invoice commands |
 | v0.0.0.10 | 597e127 | 2026-01-30 14:03 UTC | Greg Gowans | Add local CLAUDE.md for project context |
 | v0.0.0.9 | e02b11c | 2026-01-30 12:06 UTC | Greg Gowans | Convert .simplemotion from submodule to regular directory |
